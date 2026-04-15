@@ -1,6 +1,6 @@
 # game.py
 
-from parts import Board
+from gameparts.parts import Board
 
 game = Board()
 game.display()
